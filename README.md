@@ -87,6 +87,25 @@ This dataset contains information about secondary school students from two Portu
  
 
 
+
+## Key Insights from Visualizations
+
+
+### Academic Factors
+* **Past Performance is a Strong Predictor**: There is a very strong negative relationship between the number of past class failures and final grades. Students with zero failures achieve a full range of grades, while those with even one or two failures rarely achieve high scores.
+* **Study Time Matters**: A clear positive trend exists between weekly study time and academic performance. The median grade consistently increases with more hours spent studying, with students studying over 10 hours a week performing the best on average.
+* **Attendance is Crucial**: Increased school absences are linked to lower final grades. While not a perfect correlation, the highest-achieving students almost always have very few absences.
+
+### Social & Lifestyle Factors
+* **Social Life Has an Impact**: Students who go out with friends very frequently (4-5 on the scale) tend to have lower median grades than those with a more moderate social life.
+* **Alcohol Consumption Correlates with Lower Grades**: Higher weekend alcohol consumption is strongly associated with poorer academic performance. The highest grades are almost exclusively achieved by students who report very low alcohol intake.
+* **Romantic Relationships May Influence Grades**: Students not in a romantic relationship have a slightly higher median grade and a greater concentration of high scores compared to those who are.
+* **Internet Access is Nearly Universal**: The vast majority of students (over 83%) have internet access at home, indicating it's a standard resource for this student population.
+
+### Family & Home Environment
+* **Parental Background Shows Minor Influence**: Factors like parents' cohabitation status show a statistically small impact on student grades. While students with parents living together have a slightly higher average, the difference is minimal.
+* **Family Support is Modestly Helpful**: While the median grade is slightly higher for students who receive educational support from their family, the overall impact doesn't appear to be a major differentiating factor in performance.
+
   
  
   
